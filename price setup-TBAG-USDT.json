@@ -1,7 +1,7 @@
 {
-  "BASE/QUOTE": TBAG/USDT {  // pair name
+  TBAG/USDT
     "price": .0001, // central price
-    "up": 0.15, // percent deviation top line 1% = 0.01
+    "up": 0.1, // percent deviation top line 1% = 0.01
     "down": 0.1  // percent deviation bottom line 1% = 0.01
   }
 }
